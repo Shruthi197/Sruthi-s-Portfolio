@@ -389,6 +389,14 @@ hr{
     width: 50%;
 }
 
+.progress-line.ae span {
+    width: 50%;
+}
+.progress-line.xd span {
+    width: 50%;
+}
+
+
 .progress-line span::after {
     position: absolute;
     padding: 1px 8px;
@@ -420,6 +428,14 @@ hr{
 
 .progress-line.cpls span::after {
     content: "50%";
+}
+
+.progress-line.ae span::after
+{
+    content:"90%"
+}
+.progress-line.xd span::after{
+    content: "90%";
 }
 
 .progress-line span::before {
@@ -1161,6 +1177,13 @@ hr{
     .bar .info .addc::before{
         content: "50%";
     }
+
+    .bar .info .addxd::before{
+        content: "90%";
+    }
+    .bar .info .adddae::before{
+        content: "90%";
+    }
     
     
     /*project*/
@@ -1330,6 +1353,13 @@ hr{
     }
     .bar .info .addc::before{
         content: "50%";
+    }
+    
+    .bar .info .addxd::before{
+        content: "90%";
+    }
+    .bar .info .adddae::before{
+        content: "90%";
     }
 
     /*project*/
