@@ -389,13 +389,13 @@ hr{
     width: 50%;
 }
 
-.progress-line.ae span {
-    width: 90%;
-}
 .progress-line.xd span {
     width: 90%;
 }
 
+.progress-line.ae span {
+    width: 90%;
+}
 
 .progress-line span::after {
     position: absolute;
