@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Peer Mentor" , "UI/UX Design" , "Web Development"],
+    strings: ["Peer Mentor" , "UI/UX Designer" , "Web Developer"],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
