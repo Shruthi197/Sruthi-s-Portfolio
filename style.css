@@ -429,7 +429,6 @@ hr{
 .progress-line.cpls span::after {
     content: "50%";
 }
-
 .progress-line.ae span::after
 {
     content:"90%"
@@ -1177,15 +1176,13 @@ hr{
     .bar .info .addc::before{
         content: "50%";
     }
-
     .bar .info .addxd::before{
         content: "90%";
     }
     .bar .info .adddae::before{
         content: "90%";
     }
-    
-    
+
     /*project*/
     .main-text {
         padding-top: 20px;
@@ -1354,7 +1351,6 @@ hr{
     .bar .info .addc::before{
         content: "50%";
     }
-    
     .bar .info .addxd::before{
         content: "90%";
     }
